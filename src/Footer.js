@@ -7,7 +7,7 @@ function Footer() {
       <p>
         Coded By{" "}
         <a
-          href="https://github.com/cosm1cgirl"
+          href="https://github.com/alja1313"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -15,7 +15,7 @@ function Footer() {
         </a>{" "}
         | Hosted on{" "}
         <a
-          href="https://github.com/cosm1cgirl/weatherapp"
+          href="https://github.com/alja1313/react-app"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,7 +23,7 @@ function Footer() {
         </a>{" "}
         &{" "}
         <a
-          href="https://app.netlify.com/sites/weathernodejs/overview"
+          href="https://react-app-trial.netlify.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
